@@ -1,0 +1,7 @@
+{
+    "action": "msg",
+    "time": "<unix timestamp>",
+    "to": "#room_name",
+    "from": "account_name",
+    "message": "Hello World"
+}
