@@ -1,0 +1,8 @@
+{
+ "action": "authenticate",
+ "time": "<unix timestamp>",
+        "user": {
+                "account_name": "C0deMaver1ck",
+                "password":     "CorrectHorseBatterStaple"
+        }
+}
