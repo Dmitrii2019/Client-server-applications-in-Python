@@ -1,0 +1,9 @@
+{
+        "action": "presence",
+        "time": "<unix timestamp>",
+        "type": "status",
+        "user": {
+                "account_name":  "C0deMaver1ck",
+                "status":      "Yep, I am here!"
+        }
+}

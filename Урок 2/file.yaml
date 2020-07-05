@@ -1,0 +1,6 @@
+data_key1:
+- data_value1
+- data_value2
+data_key2: 5
+data_key3:
+  1ˆ: data_value_1
