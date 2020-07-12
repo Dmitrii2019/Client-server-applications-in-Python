@@ -1,0 +1,6 @@
+{
+        "response": 200,
+        "action": "probe",
+        "time": "<unix timestamp>",
+        "alert": "проверка доступности пользователя"
+}
