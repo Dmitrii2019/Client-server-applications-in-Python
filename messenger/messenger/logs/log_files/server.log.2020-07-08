@@ -1,0 +1,9 @@
+2020-07-08 23:01:42,960 DEBUG decorators.py Была вызвана функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-07-08 23:01:42,960 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-07-08 23:01:51,527 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50995)
+2020-07-08 23:01:51,529 DEBUG decorators.py Была вызвана функция get_message c параметрами (<socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50995)>,), {}. Вызов из модуля homework.common.utils. Вызов из функции main().Вызов из функции main
+2020-07-08 23:01:51,529 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1594238511.527647, 'user': {'account_name': 'Guest'}}
+2020-07-08 23:01:51,530 DEBUG decorators.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1594238511.527647, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-07-08 23:01:51,531 INFO server.py Сформирован ответ клиенту {'response': 200}
+2020-07-08 23:01:51,532 DEBUG decorators.py Была вызвана функция send_message c параметрами (<socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50995)>, {'response': 200}), {}. Вызов из модуля homework.common.utils. Вызов из функции main().Вызов из функции main
+2020-07-08 23:01:51,532 DEBUG server.py Соединение с клиентом ('127.0.0.1', 50995) закрывается.
