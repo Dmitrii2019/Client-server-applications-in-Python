@@ -1,0 +1,4 @@
+2020-07-05 21:17:37,969 decorated обращение к декорируемой функции create_presence
+2020-07-05 21:17:37,969 decorated Функция create_presence, аргументы (){}.
+2020-07-05 21:17:37,969 decorated обращение к декорируемой функции process_client_message
+2020-07-05 21:17:37,970 decorated Функция process_client_message, аргументы ({'action': 'presence', 'time': 1593973057.9690626, 'user': {'account_name': 'Guest'}},){}.
